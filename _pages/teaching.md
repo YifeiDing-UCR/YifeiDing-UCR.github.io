@@ -17,7 +17,7 @@ Teaching Assistant, UCR, 2019 - present
 * Introduction to Microeconomics(Econ 003)
 
 
-Teaching Assistant, Xiamen University. 2016 - 2017
+Teaching Assistant, Xiamen University, 2016 - 2017
 ======
 
 * Advanced Econometrics(II), Graduate Course
