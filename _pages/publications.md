@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+This page is currently under construction. Stay tuned for updates!
+
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
@@ -13,4 +15,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
