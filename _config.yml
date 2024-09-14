@@ -21,7 +21,7 @@ repository               : "YifeiDing-UCR/yifeiding-ucr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Yifei Ding"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in the department of economics of UCR"
