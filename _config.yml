@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ph.D. Candidate"
+title                    : "Yifei Ding"
 title_separator          : "-"
 name                     : &name "Yifei Ding"
 description              : &description "personal description"
