@@ -36,7 +36,7 @@ My research focuses on Machine Learning (Prediction and Causal Inference), Econo
 ## Education
 
 * **Ph.D. in Economics**   
-University of California, Riverside (2019-Expected 2024)
+University of California, Riverside (2019-Expected 2025)
 * **M.A. in Applied Statistics**    
 Wang Yanan Institute for Studies in Economics, Xiamen University (2015-2018)
 * **B.A. in Mathematic Finance**    
