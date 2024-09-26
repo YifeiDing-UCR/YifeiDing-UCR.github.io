@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Publications & Conference Papers
+## Publications & Conference Papers
 
 1. **Ding, Yifei** and **Meng Xu**.  
    *Comparing Methods for Continuous Treatment*.  
