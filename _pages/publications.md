@@ -7,14 +7,17 @@ author_profile: true
 
 ## Publications & Conference Papers
 
-1. **Ding, Yifei** and **Meng Xu**.  
+1. **Yifei Ding** and **Meng Xu**.  
    *Comparing Methods for Continuous Treatment*.  
    Presented at CODE@MIT, 2023.
 
-2. **Chen, Haiqiang**, **Chen, Yang**, and **Ding, Yifei**.  
+2. **Haiqiang Chen**, **Yang Chen**, **Yifei Ding** and **Muqing Song**.  
    *Does "Too-Connected" Network of Shareholders Exacerbate Crash Risk?*  
    *China Economic Quarterly* (经济学季刊), 2023(03):1070-1087.  
-   Available at: [https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
+   Available at: [Full Text](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
+
+   *Abstract:*  
+   Using quarterly data from the top 10 largest shareholders of A-share stock markets from 2003 to 2018, we construct a network of influential shareholders. Our findings reveal that firms with more interconnected shareholders face higher crash risk, especially when dominated by financial institutional shareholders or those with higher shareholding ratios. In contrast, state ownership and robust corporate governance significantly mitigate this risk. Mechanism analysis shows that firms with higher network centrality tend to have a higher goodwill-to-market value ratio, a greater proportion of related-party transactions to total assets, and larger M&A premiums, yet exhibit lower corporate governance transparency. These results suggest that overly connected shareholder networks may encourage tunneling behavior, exacerbating the crash risk for listed companies.
 
 
 
