@@ -14,7 +14,7 @@ I am a Ph.D. candidate in Economics at the University of California, Riverside, 
 
 My research has reinforced my strong belief that integrating machine learning with econometric theory will transform the research paradigm in causal inference, providing empirical researchers with powerful tools to explore causal relationships more intelligently and effectively.
 
-I am excited to announce that I am entering the job market and welcome any opportunities to connect. Please feel free to reach out if you're interested.
+I am excited to announce that I am entering the job market and welcome any opportunities to connect!
 
 ## Research Interests
 
