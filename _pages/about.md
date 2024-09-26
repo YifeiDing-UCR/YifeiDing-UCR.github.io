@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am an Economics Ph.D. Candiate, University of Wisconsin-Milwaukee. 
+I am a Ph.D. candidate in Economics at the University of California, Riverside, with six years of research experience ranging from empirical studies during my master's program to advanced work in machine learning and econometric theory during my doctorate. My research has reinforced my strong belief that integrating machine learning with econometric theory will transform the research paradigm in causal inference, providing empirical researchers with powerful tools to explore causal relationships more effectively.
 
 ## Research Interests
 
@@ -40,5 +40,4 @@ College of Chemistry and Chemical Engineering, Xiamen University (2011-2015)
 
 
 
-Machine Learning (Prediction and Casual Inference), Econometrics Theory, Applied Econometrics 
 
