@@ -18,7 +18,7 @@ I am excited to announce that I am entering the job market and welcome any oppor
 
 ## Research Interests
 
-My research focuses on Machine Learning(Prediction and Causal Inference), Econometrics Theory, Applied Econometrics. The primary researches in econometrics theory and applied econometrics are semiparametrics, nonparameterics and financial economics.
+My research focuses on Machine Learning (Prediction and Causal Inference), Econometrics Theory, Applied Econometrics. The primary researches in econometrics theory and applied econometrics are semiparametrics, nonparameterics and financial economics.
 
 * Double Machine Learning
 * Individual Heterogeneity
