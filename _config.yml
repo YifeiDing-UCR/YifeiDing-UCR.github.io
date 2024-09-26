@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yifei Ding"
+title                    : "Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Yifei Ding"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Headshot_use.png"
   name             : "Yifei Ding"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in the department of economics of UCR"
+  bio              : "Ph.D. Candidate in Department of Economics at University of California, Riverside"
   location         : "Riverside, CA"
   employer         : "University of California, Riverside"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user="
+  googlescholar    : #"https://scholar.google.com/citations?user="
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
