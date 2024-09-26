@@ -25,10 +25,11 @@ My research focuses on Machine Learning (Prediction and Causal Inference), Econo
 * Endogeneity
 * Continuous Treatment Effect
 * Social Network
-* Balancing Approach
-* Stock Price Crash Risk
 * Tree-based Models
 * Deep Learning
+* Balancing Approach
+* Stock Price Crash Risk
+
 
 
 
