@@ -9,9 +9,9 @@ author_profile: true
 
 1. **Ding, Yifei** and **Meng Xu**  
    *Comparing Methods for Continuous Treatment*  
-   Presented at CODE@MIT, 2023.
-   Available at: [Download Paper](https://yifeiding-ucr.github.io/files/Continuous_Treatment_Method_Comparison_CODE.pdf)
-   
+   Presented at CODE@MIT, 2023.  
+   Available at: [Download Paper](https://yifeiding-ucr.github.io/files/Continuous_Treatment_Method_Comparison_CODE.pdf)  
+
    *Abstract:*  
    This paper presents a comparative study of two advanced methodologies for estimating the effects of continuous treatments on outcome variables in large-scale tech applications. We focus on dose-response curves and marginal effects to address various business scenarios, such as the impact of ad frequency on user conversions, geolocation campaigns on local engagement, and latency on app performance. Our investigation centers around two promising approaches: entropy balancing for continuous treatment and double/debiased machine learning (DML). Using semi-synthetic data based on Snapchat user behavior, we evaluate these methods' performance in terms of scalability, flexibility, and precision in handling high-dimensional, non-linear relationships between outcome variables, continuous treatments, and confounders. The study finds that tree-based machine learning models, particularly XGBOOST and Boostsmooth, outperform balancing approaches in estimating dose-response curves, while the balancing method performs best for marginal effect estimation. Notably, our findings also challenge the efficacy of the kernel-based selection model in the double machine learning process, prompting a reconsideration of its utility in real-world applications.
 3. **Chen, Haiqiang**, **Chen, Yang**, **Ding, Yifei**, and **Song, Muqing**  
