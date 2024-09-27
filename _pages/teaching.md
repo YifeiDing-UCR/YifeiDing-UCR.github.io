@@ -12,7 +12,7 @@ author_profile: true
 
 ### **Instructor, University of California, Riverside** *(09/2024)*
 
-- **Course:** Statistics in Mini-Math Camp
+- **Course:** Statistics in Mini-Math Camp (Ph.D. Course)
 
 ### **Teaching Assistant, University of California, Riverside** *(09/2020 – Present)*
 
