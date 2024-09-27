@@ -17,7 +17,7 @@ author_profile: true
 3. **Chen, Haiqiang**, **Chen, Yang**, **Ding, Yifei**, and **Song, Muqing**  
    *Does "Too-Connected" Network of Shareholders Exacerbate Crash Risk?*  
    *China Economic Quarterly* (经济学季刊), 2023(03):1070-1087  
-   Available at: [Full Text](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
+   Available at: [Download Paper](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
 
    *Abstract:*  
    Using quarterly data from the top 10 largest shareholders of A-share stock markets from 2003 to 2018, we construct a network of influential shareholders. Our findings reveal that firms with more interconnected shareholders face higher crash risk, especially when dominated by financial institutional shareholders or those with higher shareholding ratios. In contrast, state ownership and robust corporate governance significantly mitigate this risk. Mechanism analysis shows that firms with higher network centrality tend to have a higher goodwill-to-market value ratio, a greater proportion of related-party transactions to total assets, and larger M&A premiums, yet exhibit lower corporate governance transparency. These results suggest that overly connected shareholder networks may encourage tunneling behavior, exacerbating the crash risk for listed companies.
