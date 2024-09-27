@@ -29,6 +29,6 @@ author_profile: true
 ### **Teaching Assistant, Xiamen University** *(09/2016 – 06/2017)*
 
 - **Graduate Courses:**
-  - Advanced Econometrics II
+  - Advanced Econometrics II (Ph.D. Course)
   - Time Series Analysis
 - **Award:** Best TA
