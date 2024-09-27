@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
 ## Teaching Experience
 
 ### **Instructor, University of California, Riverside** *(09/2024)*
