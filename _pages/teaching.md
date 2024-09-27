@@ -9,7 +9,7 @@ author_profile: true
 
 ### **Instructor, University of California, Riverside** *(September 2024)*
 
-- **Course:** ECON XXX: Statistics in Mini-Math Camp *(Ph.D. Course)*
+- **Course:** ECON 2681: Statistics in Mini-Math Camp *(Ph.D. Course)*
 
 ### **Teaching Assistant, University of California, Riverside** *(September 2020 – Present)*
 
