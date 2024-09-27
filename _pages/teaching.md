@@ -1,25 +1,34 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Teaching Assistant, UCR, 2019 - present
-======
-* Econometric Method I(Econ 205A graduate)
-* Data Analysis in Economics(Econ 106)
-* Introductory Econometrics I(Econ 107)
-* Statistics for Economics(Econ 101)
-* Intermediate Microeconomic Theory I(Econ 104A)
-* Introduction to Microeconomics(Econ 003)
 
+## Teaching Experience
 
-Teaching Assistant, Xiamen University, 2016 - 2017
-======
+### **Instructor, University of California, Riverside** *(09/2024)*
 
-* Advanced Econometrics(II), Graduate Course
-  Award: Best TA
-* Time Series Analysis, Graduate Course
+- **Course:** Statistics in Mini-Math Camp
+
+### **Teaching Assistant, University of California, Riverside** *(09/2020 – Present)*
+
+- **Graduate Courses:**
+  - Econometric Method I
+  - Micro Theory (Grader)
+- **Undergraduate Courses:**
+  - Data Analysis in Economics
+  - Introductory Econometrics I
+  - Statistics for Economics
+  - Intermediate Microeconomic Theory I
+  - Introduction to Microeconomics
+
+### **Teaching Assistant, Xiamen University** *(09/2016 – 06/2017)*
+
+- **Graduate Courses:**
+  - Advanced Econometrics II
+  - Time Series Analysis
+- **Award:** Best TA
