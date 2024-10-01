@@ -5,24 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications & Conference Papers
 
-1. **Ding, Yifei** and **Meng Xu**  
-   *Comparing Methods for Continuous Treatment*  
-   Presented at CODE@MIT, 2023.  
-   Available at: [Download Paper](https://yifeiding-ucr.github.io/files/Continuous_Treatment_Method_Comparison_CODE.pdf)  
-
-   *Abstract:*  
-   This paper presents a comparative study of two advanced methodologies for estimating the effects of continuous treatments on outcome variables in large-scale tech applications. We focus on dose-response curves and marginal effects to address various business scenarios, such as the impact of ad frequency on user conversions, geolocation campaigns on local engagement, and latency on app performance. Our investigation centers around two promising approaches: entropy balancing for continuous treatment and double/debiased machine learning (DML). Using semi-synthetic data based on Snapchat user behavior, we evaluate these methods' performance in terms of scalability, flexibility, and precision in handling high-dimensional, non-linear relationships between outcome variables, continuous treatments, and confounders. The study finds that tree-based machine learning models, particularly XGBOOST and Boostsmooth, outperform balancing approaches in estimating dose-response curves, while the balancing method performs best for marginal effect estimation. Notably, our findings also challenge the efficacy of the kernel-based selection model in the double machine learning process, prompting a reconsideration of its utility in real-world applications.
-3. **Chen, Haiqiang**, **Chen, Yang**, **Ding, Yifei**, and **Song, Muqing**  
-   *Does "Too-Connected" Network of Shareholders Exacerbate Crash Risk?*  
-   *China Economic Quarterly* (经济学季刊), 2023(03):1070-1087  
-   Available at: [Download Paper](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
-
-   *Abstract:*  
-   Using quarterly data from the top 10 largest shareholders of A-share stock markets from 2003 to 2018, we construct a network of influential shareholders. Our findings reveal that firms with more interconnected shareholders face higher crash risk, especially when dominated by financial institutional shareholders or those with higher shareholding ratios. In contrast, state ownership and robust corporate governance significantly mitigate this risk. Mechanism analysis shows that firms with higher network centrality tend to have a higher goodwill-to-market value ratio, a greater proportion of related-party transactions to total assets, and larger M&A premiums, yet exhibit lower corporate governance transparency. These results suggest that overly connected shareholder networks may encourage tunneling behavior, exacerbating the crash risk for listed companies.
-
----
 
 ## Working Papers
 
@@ -45,3 +28,20 @@ In this paper, we explore the use of machine learning techniques for estimating 
 *Abstract:*  
 The growing influence of machine learning (ML) and big data technologies has significantly reshaped many scientific disciplines, including econometrics. This paper conducts a detailed comparative analysis of various tree-based and deep learning models, focusing on their prediction capabilities. The models examined include traditional deep neural networks (DNNs), Multilayer Perceptron (MLP), and several advanced tree-based models such as Boosted Smooth Transition Regression Trees (BooST), SMARTboost, and Random Forests. Additionally, we explore different prediction combination techniques to evaluate whether combining predictions from multiple models enhances predictive accuracy. Using simulations from the well-known Friedman data generating process (DGP), we systematically compare the performance of these models under varying levels of noise and the presence of irrelevant features. Our findings reveal that tree-based models like SMARTboost and BooST demonstrate robust performance, particularly in low signal-to-noise scenarios, where they often outperform neural networks. Moreover, the inclusion of ensemble methods, such as median and simple average combinations, further improves prediction stability. Two real-world economic applications—Engel curve prediction and stock price crash risk prediction—highlight the practical implications of our analysis, showing the advantages of tree-based methods in capturing both linear and nonlinear data structures, while DNNs struggle in noisy and nonlinear environments. Our study emphasizes the need for careful model selection and the potential benefits of hybridizing prediction models for complex data tasks.
 
+---
+## Publications & Conference Papers
+
+1. **Ding, Yifei** and **Meng Xu**  
+   *Comparing Methods for Continuous Treatment*  
+   Presented at CODE@MIT, 2023.  
+   Available at: [Download Paper](https://yifeiding-ucr.github.io/files/Continuous_Treatment_Method_Comparison_CODE.pdf)  
+
+   *Abstract:*  
+   This paper presents a comparative study of two advanced methodologies for estimating the effects of continuous treatments on outcome variables in large-scale tech applications. We focus on dose-response curves and marginal effects to address various business scenarios, such as the impact of ad frequency on user conversions, geolocation campaigns on local engagement, and latency on app performance. Our investigation centers around two promising approaches: entropy balancing for continuous treatment and double/debiased machine learning (DML). Using semi-synthetic data based on Snapchat user behavior, we evaluate these methods' performance in terms of scalability, flexibility, and precision in handling high-dimensional, non-linear relationships between outcome variables, continuous treatments, and confounders. The study finds that tree-based machine learning models, particularly XGBOOST and Boostsmooth, outperform balancing approaches in estimating dose-response curves, while the balancing method performs best for marginal effect estimation. Notably, our findings also challenge the efficacy of the kernel-based selection model in the double machine learning process, prompting a reconsideration of its utility in real-world applications.
+3. **Chen, Haiqiang**, **Chen, Yang**, **Ding, Yifei**, and **Song, Muqing**  
+   *Does "Too-Connected" Network of Shareholders Exacerbate Crash Risk?*  
+   *China Economic Quarterly* (经济学季刊), 2023(03):1070-1087  
+   Available at: [Download Paper](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
+
+   *Abstract:*  
+   Using quarterly data from the top 10 largest shareholders of A-share stock markets from 2003 to 2018, we construct a network of influential shareholders. Our findings reveal that firms with more interconnected shareholders face higher crash risk, especially when dominated by financial institutional shareholders or those with higher shareholding ratios. In contrast, state ownership and robust corporate governance significantly mitigate this risk. Mechanism analysis shows that firms with higher network centrality tend to have a higher goodwill-to-market value ratio, a greater proportion of related-party transactions to total assets, and larger M&A premiums, yet exhibit lower corporate governance transparency. These results suggest that overly connected shareholder networks may encourage tunneling behavior, exacerbating the crash risk for listed companies.
