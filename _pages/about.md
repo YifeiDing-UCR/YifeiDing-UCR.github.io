@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![Yifei Ding](/images/Welcome_use.jpg){: style="float: left; margin-right: 20px; width: 150px; height: auto;" }
 # Welcome!
 
 I am a Ph.D. candidate in Economics at the University of California, Riverside, with six years of research experience ranging from empirical studies during my master's program to exploring machine learning and econometric theory during my doctorate. 
