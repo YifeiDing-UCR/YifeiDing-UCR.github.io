@@ -44,6 +44,11 @@ details summary {
   cursor: pointer;
   font-weight: bold;
   list-style: none; /* Prevent default bullets/triangles */
+  outline: none; /* Remove outline when focusing */
+}
+
+details summary::-webkit-details-marker {
+  display: none; /* Remove default triangle in WebKit browsers */
 }
 
 details[open] summary::before {
