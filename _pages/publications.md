@@ -35,19 +35,19 @@ author_profile: true
 ---
 ## Publications & Conference Papers
 
-1. Comparing Methods for Continuous Treatment  
+1. **Comparing Methods for Continuous Treatment**  
    *Ding, Yifei* and *Meng Xu*  
    Presented at CODE@MIT, 2023.  
-   Available at: [Download Paper](#)
+   Available at: [Download Paper](https://yifeiding-ucr.github.io/files/Continuous_Treatment_Method_Comparison_CODE.pdf)
 
    <details>
      <summary>Abstract</summary>
      <p>This paper presents a comparative study of two advanced methodologies for estimating the effects of continuous treatments on outcome variables in large-scale tech applications. We focus on dose-response curves and marginal effects to         address various business scenarios, such as the impact of ad frequency on user conversions, geolocation campaigns on local engagement, and latency on app performance. Our investigation centers around two promising approaches: entropy            balancing for continuous treatment and double/debiased machine learning (DML). Using semi-synthetic data based on Snapchat user behavior, we evaluate these methods' performance in terms of scalability, flexibility, and precision in              handling high-dimensional, non-linear relationships between outcome variables, continuous treatments, and confounders. The study finds that tree-based machine learning models, particularly XGBOOST and Boostsmooth, outperform balancing           approaches in      estimating dose-response curves, while the balancing method performs best for marginal effect estimation. Notably, our findings also challenge the efficacy of the kernel-based selection model in the double machine             learning process, prompting    a reconsideration of its utility in real-world applications.</p>
    </details>
 
-2. Does “Too-Connected” Network of Shareholders Exacerbate Crash Risk?  
+2. **Does “Too-Connected” Network of Shareholders Exacerbate Crash Risk?**
    *Chen, Haiqiang, Chen, Yang, Ding, Yifei*, and *Song, Muqing*  
-   Published in China Economic Quarterly (经济学季刊), 2023(03): 1070-1087.  
+   Published in *China Economic Quarterly (经济学季刊)*, 2023(03): 1070-1087.  
    Available at: [Download Paper](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
 
    <details>
@@ -56,22 +56,3 @@ author_profile: true
    </details>
 
 
----
-## Publications & Conference Papers
-
-1. **Ding, Yifei** and **Meng Xu**  
-   *Comparing Methods for Continuous Treatment*  
-   Presented at CODE@MIT, 2023.  
-   Available at: [Download Paper](https://yifeiding-ucr.github.io/files/Continuous_Treatment_Method_Comparison_CODE.pdf)  
-<details>
-  <summary>Abstract</summary>
-  <p>This paper presents a comparative study of two advanced methodologies for estimating the effects of continuous treatments on outcome variables in large-scale tech applications. We focus on dose-response curves and marginal effects to         address various business scenarios, such as the impact of ad frequency on user conversions, geolocation campaigns on local engagement, and latency on app performance. Our investigation centers around two promising approaches: entropy            balancing for continuous treatment and double/debiased machine learning (DML). Using semi-synthetic data based on Snapchat user behavior, we evaluate these methods' performance in terms of scalability, flexibility, and precision in handling     high-dimensional, non-linear relationships between outcome variables, continuous treatments, and confounders. The study finds that tree-based machine learning models, particularly XGBOOST and Boostsmooth, outperform balancing approaches in      estimating dose-response curves, while the balancing method performs best for marginal effect estimation. Notably, our findings also challenge the efficacy of the kernel-based selection model in the double machine learning process, prompting    a reconsideration of its utility in real-world applications.</p>
-</details>
-2. **Chen, Haiqiang**, **Chen, Yang**, **Ding, Yifei**, and **Song, Muqing**  
-   *Does "Too-Connected" Network of Shareholders Exacerbate Crash Risk?*  
-   *China Economic Quarterly* (经济学季刊), 2023(03):1070-1087  
-   Available at: [Download Paper](https://www.nsd.pku.edu.cn/pub/chnsd/docs/20230719150300278598.pdf)
-<details>
-  <summary>Abstract</summary>
-  <p>Using quarterly data from the top 10 largest shareholders of A-share stock markets from 2003 to 2018, we construct a network of influential shareholders. Our findings reveal that firms with more interconnected shareholders face higher         crash risk, especially when dominated by financial institutional shareholders or those with higher shareholding ratios. In contrast, state ownership and robust corporate governance significantly mitigate this risk. Mechanism analysis shows      that firms with higher network centrality tend to have a higher goodwill-to-market value ratio, a greater proportion of related-party transactions to total assets, and larger M&A premiums, yet exhibit lower corporate governance transparency.    These results suggest that overly connected shareholder networks may encourage tunneling behavior, exacerbating the crash risk for listed companies.</p>
-</details>
