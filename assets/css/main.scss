@@ -43,6 +43,7 @@
 details summary {
   cursor: pointer;
   font-weight: bold;
+  list-style: none; /* Prevent default bullets/triangles */
 }
 
 details[open] summary::before {
@@ -52,3 +53,4 @@ details[open] summary::before {
 details summary::before {
   content: "▶ ";
 }
+
