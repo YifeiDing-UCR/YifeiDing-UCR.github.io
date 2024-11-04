@@ -16,6 +16,8 @@ My research reinforces my strong belief that integrating machine learning with e
 
 I am excited to announce that I am entering the job market and welcome any opportunities to connect. Please feel free to [contact me](mailto:yding067@ucr.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/yifei-ding-4929251b0) if you're interested.
 
+My job market paper is available at [Download Paper](https://yifeiding-ucr.github.io/files/Deep_learning_for_individual_heterogeneity_with_generated_regressors_Job_Market_Update.pdf)
+
 ## Research Interests
 
 My research focuses on Causal Inference, Econometrics Theory, Machine Learning (Prediction and Causal Inference) and Applied Econometrics. The primary researches in econometrics theory and applied econometrics are semiparametrics, nonparameterics and financial economics.
