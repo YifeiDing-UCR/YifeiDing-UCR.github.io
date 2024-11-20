@@ -31,3 +31,7 @@ author_profile: true
   - Time Series Analysis *(Spring Semester)*
 
 - **Award:** Best TA
+
+
+## Word Cloud of Student Comments
+<img src="../images/Structural%20deep%20neural%20network.png" alt="Structured Deep Neural Network Estimation" width="400">
