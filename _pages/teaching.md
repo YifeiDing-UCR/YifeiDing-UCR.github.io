@@ -34,4 +34,4 @@ author_profile: true
 
 
 ## Word Cloud of Student Comments
-<img src="../images/Word%20Cloud%20of%20Students%20Comments.png" alt="Word Cloud of Student Comments" width="400">
+<img src="../images/Word%20Cloud%20of%20Students%20Comments.png" alt="Word Cloud of Student Comments" width="800">
