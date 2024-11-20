@@ -34,4 +34,4 @@ author_profile: true
 
 
 ## Word Cloud of Student Comments
-<img src="../images/Structural%20deep%20neural%20network.png" alt="Structured Deep Neural Network Estimation" width="400">
+<img src="../images/Word%20Cloud%20of%20Students%20Comments.png" alt="Word Cloud of Student Comments" width="400">
