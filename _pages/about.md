@@ -16,7 +16,6 @@ My research reinforces my strong belief that integrating machine learning with e
 
 I am excited to announce that I am entering the job market and welcome any opportunities to connect. Please feel free to [contact me](mailto:yding067@ucr.edu) if you're interested.
 
-My job market paper is available at [Download Paper](https://yifeiding-ucr.github.io/files/Deep_learning_for_individual_heterogeneity_with_generated_regressors_Job_Market_Update.pdf).
 
 ## Research Interests
 
